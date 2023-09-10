@@ -1,6 +1,8 @@
 Unscramble app
 =================================
 
+<img src="https://github.com/luismendes070/basic-android-kotlin-compose-training-unscramble/blob/main/Screenshot_20230910_132109.png">
+
 Single player game app that displays scrambled words. To play the game, player has to make a
 word using all the letters in the displayed scrambled word.
 This code demonstrates the Android Architecture component- ViewModel and StateFlow.
